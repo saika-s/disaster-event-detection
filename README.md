@@ -38,4 +38,4 @@ Tweet text is cleaned (lowercase, remove URLs/mentions/emojis, lemmatize), token
 - Fine-tune BERT or RoBERTa instead of BiLSTM
 - Replace GloVe with FastText for better OOV handling
 - Add multi-class disaster type classification (flood, earthquake, etc.)
-- Connect to Twitter/X API for and classifying in real time
+- Connect to Twitter API for classifying in real time
