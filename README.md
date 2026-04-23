@@ -26,7 +26,7 @@ Tweet text is cleaned (lowercase, remove URLs/mentions/emojis, lemmatize), token
 ## Project Structure
  
 ```
-├── Disaster_Even_Detection.ipynb   
+├── Disaster_Event_Detection.ipynb   
 ├── app.py                         
 ├── bilstm_model.keras              
 ├── tokenizer.pkl                  
